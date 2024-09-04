@@ -24,9 +24,12 @@ The models were trained using **Proximal Policy Optimization (PPO)**, a state-of
 - **createTrainingCurvesAndVideos-PONG.py**: Generates training curves and videos showing agent performance at various stages in PONG.
 - **createTrainingCurvesAndVideos-VIDEOPINBALL.py**: Generates training curves and videos showing agent performance at various stages in VIDEOPINBALL.
 - **Training Curves**: Visual representations of the agents' performance over time:
-  
+  - PONG Training Curve:
+    
   ![PONG Training Curve](assets/trainingCurve-PONG.png)
 
+  - VIDEOPINBALL Training Curve:
+    
   ![VIDEOPINBALL Training Curve](assets/trainingCurve-VIDEOPINBALL.png)
 
 - **Best Gameplay GIFs**:
@@ -67,6 +70,6 @@ The models were trained using **Proximal Policy Optimization (PPO)**, a state-of
     ```bash
     python deployVIDEOPINBALLPlayer.py
     ```
-## CONCLUSION
+## Conclusion
 
 The RL agents for PONG and VIDEOPINBALL demonstrate the ability of deep reinforcement learning to master complex environments. The agents were trained using PPO, an algorithm that ensures stable and efficient learning. This project highlights the potential of RL for learning and optimizing performance in continuous environments through feedback and rewards.
