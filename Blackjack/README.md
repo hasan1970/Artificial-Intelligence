@@ -31,7 +31,7 @@ Blackjack is a popular card game where the objective is to have a hand value as 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/hasan1970/Artificial-Intelligence.git
+   git clone https://github.com/hasan1970/General-AI.git
    cd Artificial-Intelligence/Blackjack
    ```
 2. Run the play script:
